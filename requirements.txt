@@ -1,9 +1,2 @@
-tkinter
-messagebox
-filedialog
-csv
+beautifulsoup4
 requests
-re
-BeautifulSoup
-multiprocessing
-Pool
