@@ -1,0 +1,9 @@
+tkinter
+messagebox
+filedialog
+csv
+requests
+re
+BeautifulSoup
+multiprocessing
+Pool
